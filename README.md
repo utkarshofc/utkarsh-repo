@@ -1,2 +1,2 @@
 # utkarsh-repo
-This is my first Git Repository
+This is a table tennis score keeper.
